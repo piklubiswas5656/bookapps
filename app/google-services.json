@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65262339128",
+    "project_id": "ncert-hindi-b9110",
+    "storage_bucket": "ncert-hindi-b9110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65262339128:android:f3f6cf095f0144ab1b12cd",
+        "android_client_info": {
+          "package_name": "ncert.solutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65262339128-0j9f56028hfuemcd73nbfqpkmha4thvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgekleBnswqqAqqLMQHbHm8yh_p0wvTDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65262339128-0j9f56028hfuemcd73nbfqpkmha4thvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
